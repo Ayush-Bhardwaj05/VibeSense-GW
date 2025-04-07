@@ -1,0 +1,102 @@
+# Core FastAPI & Web
+fastapi
+uvicorn
+python-multipart
+pydantic
+pydantic_core
+starlette
+
+# Machine Learning Core
+tensorflow
+scikit-learn
+numpy
+scipy
+librosa
+joblib
+threadpoolctl
+numba
+
+# Audio Processing
+pydub
+soundfile
+audioread
+
+# Database
+motor
+pymongo
+
+# Security & Authentication
+passlib[bcrypt]
+pyjwt
+bcrypt
+
+# AWS Deployment Essentials
+anyio
+httpx
+click
+
+# AI
+google-generativeai
+
+# Flask (if used separately)
+Flask
+
+# Additional packages from the second list (ONLY those not already above)
+absl-py
+annotated-types
+astunparse
+attrs
+certifi
+cffi
+charset-normalizer
+colorama
+contourpy
+cycler
+flatbuffers
+fonttools
+gast
+google-pasta
+grpcio
+h11
+h5py
+idna
+jax
+jaxlib
+keras
+kiwisolver
+libclang
+Markdown
+markdown-it-py
+matplotlib
+mdurl
+mediapipe
+ml_dtypes
+namex
+opencv-contrib-python
+opencv-python
+opt_einsum
+optree
+packaging
+pillow
+protobuf
+pycparser
+Pygments
+pyparsing
+python-dateutil
+requests
+rich
+sentencepiece
+setuptools
+six
+sniffio
+sounddevice
+tensorboard
+tensorboard-data-server
+termcolor
+typing-inspection
+typing_extensions
+urllib3
+Werkzeug
+wheel
+wrapt
+gunicorn
