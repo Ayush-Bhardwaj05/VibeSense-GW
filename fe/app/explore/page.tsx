@@ -14,7 +14,7 @@ export default function Home() {
       chatBoxRef.current.scrollTop = chatBoxRef.current.scrollHeight;
     }
   }, [responses]);
-    const endpoint = '/convo/predict'
+    const endpoint = '/convo/process-audio'
     const endpoint2 = '/video/predict'
   const startRecording = async () => {
     const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
