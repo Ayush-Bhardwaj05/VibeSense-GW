@@ -1,5 +1,7 @@
 # Speech Emotion Recognition API
 
+**Deployment:** [https://vibesense-gw.zapto.org](https://vibesense-gw.zapto.org)
+
 This project is a Speech Emotion Recognition system that uses machine learning models to detect emotions from audio and video inputs. It also provides a modern web application interface for users to interact with the system. The backend is built with FastAPI, and the frontend is developed using Next.js.
 
 ---
